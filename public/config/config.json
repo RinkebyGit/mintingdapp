@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x6793cae35405b5ebc0f58fc5f1e52a082436ecf6",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6793cae35405b5ebc0f58fc5f1e52a082436ecf6",
+  "CONTRACT_ADDRESS": "0x975a9a8091e22c9b7108beef0d0e2cb59bb91e56",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x975a9a8091e22c9b7108beef0d0e2cb59bb91e56",
   "NETWORK": {
     "NAME": "Rinkeby ETH",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Premium Access PASS",
-  "SYMBOL": "PAX",
+  "NFT_NAME": "TestNFT",
+  "SYMBOL": "TNFT",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 5000000000000000,
   "DISPLAY_COST": 0.005,
